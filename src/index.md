@@ -1,2 +1,1 @@
-corriente = int(input("ingrese valor corriente"))
-voltaje = int(input("ingrese voltaje"))
+hola mundo! soy un chanchito feliz
